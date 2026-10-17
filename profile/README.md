@@ -6,6 +6,8 @@ Kommora entwickelt Erweiterungen für **Shopware 6**, mit Schwerpunkt auf den re
 - 🎨 **Storefront Studio:** visueller Live-Editor mit KI-Assistent – Header, Footer, Produkt- und Landingpages per Satz oder Mockup gestalten
 - 🔎 **Kostenlose Shop-Checks:** [GPSR](https://kommora.de/gpsr-check-onlineshop) · [Grundpreise](https://kommora.de/grundpreis-check-shopware) · [Greenwashing (EmpCo)](https://kommora.de/empco-greenwashing-check)
 
-**Open Source:** [shopware-country-translations](https://github.com/kommora-de/shopware-country-translations) – Ländernamen automatisch in alle Shop-Sprachen übersetzen (CLDR).
+**Open Source:**
+- [shopware-compliance-check](https://github.com/kommora-de/shopware-compliance-check) – Produktseiten eines Shopware-Shops auf Grundpreis (PAngV) und GPSR-Pflichtangaben prüfen (CLI, Python)
+- [shopware-country-translations](https://github.com/kommora-de/shopware-country-translations) – Ländernamen automatisch in alle Shop-Sprachen übersetzen (CLDR)
 
 🌐 [kommora.de](https://kommora.de) · 🧩 [Alle Plugins](https://kommora.de/shopware-plugins) · 📝 [Blog](https://kommora.de/blog) · 📊 [Studie Shopware-Compliance 2026](https://kommora.de/studie-shopware-compliance-2026)
