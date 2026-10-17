@@ -3,7 +3,7 @@
 Kommora entwickelt Erweiterungen für **Shopware 6**, mit Schwerpunkt auf den rechtlichen Pflichten im Onlinehandel und auf KI-Werkzeugen für Shopbetreiber. Shopware Extension Partner aus Deutschland.
 
 - 🛡️ **Compliance:** Widerrufsbutton (§ 356a BGB), EU-Gewährleistungslabel & GARAN, Digitaler Produktpass, Recht auf Reparatur, PAngV-Preishistorie, DSGVO-Toolbox
-- 🎨 **Storefront Studio:** visueller Live-Editor mit KI-Assistent – Header, Footer, Produkt- und Landingpages per Satz oder Mockup gestalten
+- 🎨 **Storefront Studio:** visueller Live-Editor mit KI-Assistent – Header, Footer, Produkt- und Landingpages per Satz oder Mockup gestalten · [▶ Demo-Video (90 s)](https://www.youtube.com/watch?v=8O2Aijb8vGk)
 - 🔎 **Kostenlose Shop-Checks:** [GPSR](https://kommora.de/gpsr-check-onlineshop) · [Grundpreise](https://kommora.de/grundpreis-check-shopware) · [Greenwashing (EmpCo)](https://kommora.de/empco-greenwashing-check)
 
 **Open Source:**
